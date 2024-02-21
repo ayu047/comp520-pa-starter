@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dacf1a65-1822-45c5-9408-e2ec11b0ce84" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/miniJava/Compiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/miniJava/Compiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniJava/ErrorReporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/miniJava/ErrorReporter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniJava/SyntacticAnalyzer/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/miniJava/SyntacticAnalyzer/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniJava/SyntacticAnalyzer/Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/miniJava/SyntacticAnalyzer/Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniJava/SyntacticAnalyzer/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/miniJava/SyntacticAnalyzer/Token.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniJava/SyntacticAnalyzer/TokenType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/miniJava/SyntacticAnalyzer/TokenType.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2bhVGYJFhcN5wduq5ykCwj4ufLQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Github/comp520-pa-starter/pa1",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dacf1a65-1822-45c5-9408-e2ec11b0ce84" name="Changes" comment="" />
+      <created>1706667202655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706667202655</updated>
+      <workItem from="1706667204210" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
