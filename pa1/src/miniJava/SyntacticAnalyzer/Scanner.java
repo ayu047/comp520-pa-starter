@@ -190,8 +190,15 @@ public class Scanner {
 					}
 				} else if (isCorr("else")) {
 					type = TokenType.Else;
-				} else if (isCorr("new")) {
-					type = TokenType.New;
+				}else if (_currentChar == 'n') {
+					takeIt();
+					if (isCorr("ew")) {
+						type = TokenType.New;
+					} else if (isCorr("ull")) {
+						type = TokenType.Null;
+					} else {
+						isLiteral();
+					}
 				} else if (isCorr("false")) {
 					type = TokenType.False;
 				} else {

@@ -20,5 +20,6 @@ public class FieldDecl extends MemberDecl {
 	public <A, R> R visit(Visitor<A, R> v, A o) {
         return v.visitFieldDecl(this, o);
     }
+	public ClassDecl cntClass;
 }
 

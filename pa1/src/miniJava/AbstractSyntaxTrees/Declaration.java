@@ -14,7 +14,9 @@ public abstract class Declaration extends AST {
 		this.name = name;
 		this.type = type;
 	}
-	
+	public boolean equals(Declaration other){
+		return this.name.equals(other.name)/* && this.type.equals(other.type)*/;
+	}
 	public String name;
 	public TypeDenoter type;
 }

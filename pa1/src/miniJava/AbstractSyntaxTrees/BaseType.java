@@ -16,4 +16,10 @@ public class BaseType extends TypeDenoter
     public <A,R> R visit(Visitor<A,R> v, A o) {
         return v.visitBaseType(this, o);
     }
+    
+    @Override
+	public boolean equals(TypeDenoter other){
+		return other != null && ((this.typeKind == other.typeKind && other instanceof BaseType && this.typeKind != TypeKind.UNSUPPORTED)
+				|| (this.typeKind == TypeKind.CLASS && other.typeKind == TypeKind.CLASS && other instanceof ClassType && other.equals(this)));
+	}
 }

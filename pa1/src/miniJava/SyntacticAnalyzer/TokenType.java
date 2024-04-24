@@ -15,6 +15,6 @@ package miniJava.SyntacticAnalyzer;
 //   to differentiate between them.
 public enum TokenType {
 	Class, Identifier, LCurly, RCurly, LSquare, RSquare, LParen, RParen,
-	Visibility, Static, Operator, NUM, Equals, Semicolon,
+	Visibility, Static, Operator, NUM, Equals, Semicolon, Null,
 	Comma, Dot, Void, INT, Boolean, This, Return, If, Else, While, New, True, False, EOT, ERROR
 }
